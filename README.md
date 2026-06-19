@@ -131,6 +131,29 @@ Performed:
 
 ---
 
+## My Contributions
+
+- Integrated compliance guides for Nevada, Ohio, Florida, Georgia, and Montana.
+- Enhanced onboarding workflows and milestone tracking.
+- Improved UI/UX across Tasks, Resources, Predictive Analytics, Accessibility, and Terms pages.
+- Tested document management, dashboard workflows, and compliance processes.
+- Supported Admin Dashboard enhancements and AI analytics visibility.
+- Performed end-to-end testing, responsive testing, regression testing, and UAT.
+
+## Technologies Used
+
+- React.js
+- TypeScript
+- Vite
+- Supabase
+- PostgreSQL
+- Tailwind CSS
+- Shadcn UI
+- React Router
+- Git & GitHub
+
+---
+
 ## Author
 
 **Divya Sri**
