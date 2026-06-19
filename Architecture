@@ -1,0 +1,40 @@
+                    ┌─────────────────┐
+                    │     Users       │
+                    │ Entrepreneurs   │
+                    └────────┬────────┘
+                             │
+                             ▼
+              ┌───────────────────────────┐
+              │ React + TypeScript Frontend│
+              │  - Onboarding             │
+              │  - Tasks                  │
+              │  - Resources              │
+              │  - Analytics Dashboard    │
+              └─────────────┬─────────────┘
+                            │
+                            ▼
+              ┌───────────────────────────┐
+              │      Supabase Backend     │
+              │  - Authentication         │
+              │  - API Layer              │
+              │  - Realtime Updates       │
+              └───────┬─────────┬─────────┘
+                      │         │
+                      ▼         ▼
+          ┌────────────────┐  ┌─────────────────┐
+          │ PostgreSQL DB  │  │ Storage Bucket  │
+          │                │  │                 │
+          │ • Profiles     │  │ • PDFs          │
+          │ • Businesses   │  │ • Documents     │
+          │ • Milestones   │  │ • State Guides  │
+          │ • State Guides │  │                 │
+          └────────────────┘  └─────────────────┘
+                      │
+                      ▼
+          ┌─────────────────────────┐
+          │ AI / Analytics Layer    │
+          │                         │
+          │ • Predictive Analytics  │
+          │ • Recommendations       │
+          │ • Business Insights     │
+          └─────────────────────────┘
