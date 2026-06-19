@@ -109,28 +109,6 @@ Performed:
 
 ---
 
-## Project Screenshots
-
-### Dashboard
-![Dashboard](Screenshots/dashboard.png)
-
-### Tasks Page
-![Tasks](Screenshots/tasks-page.png)
-
-### Resources Page
-![Resources](Screenshots/resources-page.png)
-
-### Predictive Analytics Dashboard
-![Predictive Analytics](Screenshots/predictive-analytics.png)
-
-### Legal Requirements
-![Legal Requirements](Screenshots/legal-requirements.png)
-
-### Admin Dashboard
-![Admin Dashboard](Screenshots/admin-dashboard.png)
-
----
-
 ## My Contributions
 
 - Integrated compliance guides for Nevada, Ohio, Florida, Georgia, and Montana.
